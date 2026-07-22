@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Davi Xavier 👋
 
-<!--
-**xavierdavo/xavierdavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on software development, Artificial Intelligence, embedded systems, and automation.
 
-Here are some ideas to get you started:
+I enjoy working on projects that connect software, hardware, and real-world problem solving. My academic and professional experience has also helped me develop skills in planning, data organization, teamwork, and communication in English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Computer Engineering student at Universidade Santa Cecília
+- 💻 Experience with software development, AI, and Machine Learning
+- 🤖 Interested in embedded systems, PLCs, and industrial automation
+- 🌍 Professional experience in offshore planning and international communication
+- 🔧 Currently improving my projects, documentation, and development practices
+
+## Featured projects
+
+### [Accessible AI Self-Service Kiosk](https://github.com/xavierdavo/tcc-totem-acessivel)
+
+An accessible self-service kiosk designed for people with visual impairments.
+
+The project integrates Artificial Intelligence, speech recognition and synthesis, natural language processing, language models, a database, and a web interface.
+
+**Technologies:** Python, FastAPI, JavaScript, HTML, CSS, SQL, Git, and GitHub.
+
+### [DevOps Platform](https://github.com/GestaoProjetos2026/devops-platform)
+
+Academic project focused on collaborative software development and the practical application of DevOps concepts.
+
+**Technologies and practices:** JavaScript, Git, GitHub, version control, collaborative workflows, and software documentation.
+
+## Technologies
+
+**Languages**
+
+Python · C · Java · JavaScript · SQL · HTML · CSS
+
+**Tools and platforms**
+
+Git · GitHub · FastAPI · Arduino · Microchip Studio · Visual Studio Code
+
+**Areas of interest**
+
+Artificial Intelligence · Machine Learning · Embedded Systems · DevOps · PLC Programming · Industrial Automation
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/davi-xavier-de-lima-741485237/)
