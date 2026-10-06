@@ -9,7 +9,6 @@ I enjoy working on projects that connect software, hardware, and real-world prob
 - 🎓 Computer Engineering student at Universidade Santa Cecília
 - 💻 Experience with software development, AI, and Machine Learning
 - 🏎️ Electronics team member at USC Formula SAE
-- 🚀 Co-founder of RF Studio Tec, working with digital solutions and business development
 - 🤖 Interested in embedded systems, data acquisition, PLCs, and industrial automation
 - 🌍 Professional experience in offshore planning and international communication
 - 🔧 Currently improving my projects, documentation, and development practices
@@ -49,7 +48,6 @@ Artificial Intelligence · Machine Learning · Embedded Systems · Data Acquisit
 ## Current activities
 
 - 🏎️ Studying electronics, BSPD, and Data Acquisition concepts with USC Formula SAE
-- 🚀 Supporting business development, digital presence, and client prospecting at RF Studio Tec
 - 🎓 Continuing the development and academic presentation of the Accessible AI Self-Service Kiosk
 
 ## Contact
